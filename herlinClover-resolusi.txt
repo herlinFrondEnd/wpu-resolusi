@@ -1,0 +1,14 @@
+- belajar html
+- belajar css
+- belajar js
+- belajar git & github
+- belajar css preprocessor
+- belajar css framework
+- belajar nod js
+- belajar webpack
+- belajar framework js
+- belajar state management
+- belajar api
+- belajar website deployment
+- belajar testing
+- keep learnig
